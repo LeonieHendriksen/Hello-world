@@ -20,3 +20,10 @@ So lets see
 It didnt work in PS for some reason but it does in the desktop UI.
 But I want it to work in PS too....
 So attempt 2 lets go!
+
+So the issue is that the challenge with steps is incomplete.
+
+1. git status
+2. git add name
+3. git stage name
+4. git commit -m readme.txt
