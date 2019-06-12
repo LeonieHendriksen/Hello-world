@@ -17,3 +17,6 @@ rm c:\SDKJF\JHXf\DS name ->remove file with a name from a directory you are not 
 
 I need to chance some stuff and see if it works.
 So lets see
+It didnt work in PS for some reason but it does in the desktop UI.
+But I want it to work in PS too....
+So attempt 2 lets go!
