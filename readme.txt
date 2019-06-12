@@ -45,3 +45,15 @@ After changing the document and comitting it offline you can push it towards onl
 1st do steps 1-4 (git status, git add name, git stage name, git commit -m name)
 then use: 
 git push origin master
+
+So now I know how to get a copy of files from the server on my own pc.
+Thats called a clone..
+Code: git clone URL  -> this will put a folder and all files from that URL into the directory you are in.
+So if you dont want it in your "hello world" folder change directory to the above directory (with cd ..)
+Then use the command line for the clone.
+
+next to your clone you want a link to the original file on the server.
+You get this by going to the serveradres from patchwork and using the commandline: 
+git remote add upstream URL
+
+the command: git remote -v   -> is used to see what URL's are linked to a directory
