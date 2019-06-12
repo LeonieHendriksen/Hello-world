@@ -27,3 +27,11 @@ So the issue is that the challenge with steps is incomplete.
 2. git add name
 3. git stage name
 4. git commit -m readme.txt
+
+
+Going global whoohoo
+*\o/*
+How you do it (unix code):
+1. git config --global user.username absdc
+Check to see if it works:
+git config --global user.username  -> shoud say absdc now
