@@ -13,3 +13,7 @@ cd ..  -> goes to the previous directory
 
 rm name -> remove a file with that name
 rm c:\SDKJF\JHXf\DS name ->remove file with a name from a directory you are not currently in
+
+
+I need to chance some stuff and see if it works.
+So lets see
