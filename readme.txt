@@ -35,3 +35,13 @@ How you do it (unix code):
 1. git config --global user.username absdc
 Check to see if it works:
 git config --global user.username  -> shoud say absdc now
+
+
+oke so we put everything online:
+git remote add origin URL
+
+In my case this meant I also had all the files from this folder online already.
+After changing the document and comitting it offline you can push it towards online.
+1st do steps 1-4 (git status, git add name, git stage name, git commit -m name)
+then use: 
+git push origin master
